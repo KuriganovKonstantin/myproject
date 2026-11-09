@@ -1,0 +1,6 @@
+{
+  "name": "Tech Layoffs & Algorithmic Engine",
+  "description": "Индивидуальный аналитический проект ИТИС КФУ: анализ Tech Layoffs & Hiring Trends с использованием собственных структур данных (HashMap, Segment Tree, Binary Search on Answer) и Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
